@@ -69,6 +69,7 @@ const findOptimumIncome = (revenue) => {
 		min = isLeft ? min : leftIncome;
 		income = isLeft ? leftIncome : rightIncome;
 		breakdown = isLeft ? leftBreakdown : rightBreakdown;
+		taxRate = breakdown.tax.totalTaxRate;
 
 		if (Math.abs(leftTaxRate - rightTaxRate) < 0.000001 || counter++ > MAX_STEPS) break;
 	}
