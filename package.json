@@ -1,0 +1,24 @@
+{
+  "name": "norway-tax-optimization",
+  "version": "1.0.0",
+  "description": "2023 Norwegian Business Owner Tax Optimisation Simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmtr/norway-tax-optimization.git"
+  },
+  "keywords": [
+    "tax",
+    "norway",
+    "business"
+  ],
+  "author": "Harald Blikø",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmtr/norway-tax-optimization/issues"
+  },
+  "homepage": "https://github.com/cmtr/norway-tax-optimization#readme"
+}
