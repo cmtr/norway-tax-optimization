@@ -1,0 +1,2 @@
+# norway-tax-optimization
+Script
